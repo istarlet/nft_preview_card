@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
 *,
 *::before,
 *::after {
@@ -5,7 +7,7 @@
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Outfit', sans-serif;
   font-size: 1.3125rem;
   line-height: 1.4;
   color: #333;
